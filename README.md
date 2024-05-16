@@ -35,6 +35,10 @@ Note Taker is an application that allows you to write, save, and delete notes. T
 ![Note Taker](https://github.com/Ragnarok344/note-taker/assets/155500056/40101b40-bd86-4bf0-b197-2b74ede4417b)
 
 
+## deployed application
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
