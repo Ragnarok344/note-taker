@@ -24,7 +24,7 @@ Note Taker is an application that allows you to write, save, and delete notes. T
 ## Usage
 
 1. Run `node server.js` in the terminal to start the server.
-2. Open your browser and visit `http://localhost:3000`.
+2. Open your browser and visit `http://localhost:3001`.
 3. Use the application to write, save, and delete notes.
 
 
@@ -32,6 +32,7 @@ Note Taker is an application that allows you to write, save, and delete notes. T
 
 
 
+![Note Taker](https://github.com/Ragnarok344/note-taker/assets/155500056/40101b40-bd86-4bf0-b197-2b74ede4417b)
 
 
 ## Contributing
