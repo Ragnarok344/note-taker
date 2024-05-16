@@ -36,7 +36,7 @@ Note Taker is an application that allows you to write, save, and delete notes. T
 
 
 ## deployed application
-
+[Deployed app](https://noteappp-72655b7d00c7.herokuapp.com/)
 
 
 ## Contributing
