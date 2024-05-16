@@ -43,6 +43,15 @@ Note Taker is an application that allows you to write, save, and delete notes. T
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## credits
+Various sources from the internet 
+express.js
+node.js
+
+
+
+
+
 ## License
 
 MIT
